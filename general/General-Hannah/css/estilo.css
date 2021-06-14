@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+#dado{
+	width: 100px;
+}
+
+tr{
+	color: white;
+	font-family: 'Viaoda Libre', cursive; 
+}
+
+html{
+
+	color: white;
+}
+body{
+	height: 500px;
+	font-family: 'Viaoda Libre', cursive;
+	font-size: 20px;
+}
+label{
+	font-family: 'Viaoda Libre', cursive;
+}
